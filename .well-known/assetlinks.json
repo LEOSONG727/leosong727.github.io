@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.leosong727.focusdo",
+    "sha256_cert_fingerprints": [
+      "8C:E4:45:A6:EA:80:FC:F4:0F:96:61:6F:4F:7F:F4:3A:B3:03:19:7D:D4:8A:D7:17:5C:D1:C3:0A:42:EB:32:75"
+    ]
+  }
+}]
